@@ -1,0 +1,1 @@
+:root{--light-grey:#616060;--middle-grey:#515151;--dark-grey:#2b2a2a;--middle-blue:#84aab5;--light-blue:#acd7e4}*{font-family:Open Sans,sans-serif}button,h1,h2,h3,h4,h5,h6{font-family:Yanone Kaffeesatz,sans-serif}header{display:grid;place-items:center;height:200px}header h1{font-size:400%;color:var(--color-dark-grey)}.container{width:90%;margin:0 auto}
