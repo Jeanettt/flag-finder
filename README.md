@@ -13,5 +13,5 @@ To see the page I created visit https://jeanettt.github.io/flag-finder
 6. Also I tried to switch my project to Sass, which gave me a headache but worked out in the end.
 
 ## Lessons learned
-* Building a custom filter is a lot of work. I still have little bugs in it. F.i. when the filter is set to region, but currency is also used in other region, for instance if you select North America and then currency DKK, it also displays Denmark.
+* Building a custom filter is a lot of work. I still have little bugs in it. F.i. when the filter is set to region, but it displays a currency that is also used in another region. Like when you select subregion "North America" and then currency "DKK", it also displays Denmark.
 * Next time I am going to initiate my project with Sass and not switch later on.
